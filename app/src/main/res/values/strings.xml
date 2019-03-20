@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JGTabLayoutViewPagerFragment</string>
+
+    <string name="main_tab_home">Android</string>
+    <string name="main_tab_movie">Java</string>
+    <string name="main_tab_cinema">数据结构与算法</string>
+    <string name="main_tab_movieshow">演出</string>
+    <string name="main_tab_my">我的</string>
+    <string name="main_tab_default">  </string>
+
+</resources>
